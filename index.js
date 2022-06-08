@@ -10,6 +10,6 @@
 
   }
   function returnsAnAnonymousFunction(){
-     return returnsAnAnonymousFunction;
+     return function (){};
   }
   
